@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @khandulokande<br>- 👀 I'm currently working on Laravel Framework<br>- 🌱 I’m currently learning Backend<br>- 📫 How to reach me khandulokande@gmail.com<br>- ⚡ Fun fact: I am funny
+👋 Hi, I’m @khandulokande<br> 👀 I'm currently working on Laravel Framework<br> 🌱 I’m currently learning Backend<br> 📫 How to reach me khandulokande@gmail.com<br> ⚡ Fun fact: I am funny
 
 
 ## 🌐 Socials:
