@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Welcome to my Profile</h1>
 
 # 💫 About Me:
-<br>👋 Hi, I’m @khandulokande<br> 👀 I'm currently working on pyGame Framework<br> 🌱 I’m currently learning Backend<br> 📫 How to reach me khandulokande@gmail.com<br> ⚡ Fun fact: I am funny
+<br>👋 Hi, I’m @khandulokande<br> 👀 I'm currently working on pyGame Framework<br> 🌱 I’m currently learning blockchain technology<br> 📫 How to reach me khandulokande@gmail.com<br> ⚡ Fun fact: I am funny
 
 
 ## 🌐 Socials:
